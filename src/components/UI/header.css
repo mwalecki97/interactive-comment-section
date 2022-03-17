@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.reply {
+    margin-left: 120px;
+}
+
+.date {
+    margin-left: 20px;
+    padding: 0px;
+    margin-top: 0px;
+}

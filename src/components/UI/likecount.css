@@ -1,0 +1,13 @@
+.main{
+    background-color: #f5f6f8;
+    width: 25px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.counter {
+    color: #515296;
+    font-weight: 500;
+}
